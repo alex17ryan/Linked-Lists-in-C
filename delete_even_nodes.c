@@ -30,7 +30,6 @@ int main() {
     printf("Odd linked list: ");
     display_list(head);
     
-
     return 0;
 
 }
